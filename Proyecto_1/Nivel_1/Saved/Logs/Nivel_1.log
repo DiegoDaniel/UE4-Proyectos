@@ -4589,3 +4589,1439 @@ Purging the undo buffer...
 [2019.07.29-03.11.44:357][ 72]LogFileHelpers: Saving map 'Nivel_1' took 0.404
 [2019.07.29-03.11.44:358][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
 [2019.07.29-03.11.44:522][ 72]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltDataC50C243941732AE168F6B19594CFDF2B.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-03.55.05:996][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.55.22:977][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.29-03.55.22:978][252]LogMetaData: Removing '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' ref from Metadata '/Game/Nivel/Nivel_1.PackageMetaData'
+[2019.07.29-03.55.22:978][252]LogMetaData: Removing '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Nivel/Nivel_1.PackageMetaData'
+[2019.07.29-03.55.22:978][252]LogMetaData: Removing '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Nivel/Nivel_1.PackageMetaData'
+[2019.07.29-03.55.22:978][252]LogMetaData: Removing '/Game/MyContent/Nivel/Nivel_1.SKEL_Nivel_1_C' ref from Metadata '/Game/Nivel/Nivel_1.PackageMetaData'
+[2019.07.29-03.55.22:988][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-03.55.23:082][252]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData737D33CB44FB1E44E8F9A5BEBFD8F81F.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-03.55.23:086][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-03.55.23:119][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.07.29-03.55.23:508][252]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1BEAE3989441364E58112EDB6D1522EC4.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-03.55.23:556][252]LogFileHelpers: Saving map 'Nivel_1' took 0.470
+[2019.07.29-03.55.23:797][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.29-03.55.23:836][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.07.29-03.55.23:870][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.07.29-03.55.23:898][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.07.29-03.57.07:096][998]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.29-03.57.27:878][137]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.769 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.29-03.58.10:724][451]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/Blueprints/PlataformaArribaAbajo.PlataformaArribaAbajo
+[2019.07.29-03.58.11:705][451]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0025 seconds. Added 121 classes and 0 folders.
+[2019.07.29-03.58.15:205][610]LogSlate: Window 'PlataformaArribaAbajo' being destroyed
+[2019.07.29-03.58.19:196][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.07.29-03.58.20:623][ 54]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-03.58.20:645][ 54]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo862774834FCEAB3F4994B495C64353D8.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-03.58.27:383][837]LogSlate: Took 0.009976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.29-03.58.27:493][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.58.41:730][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.58.54:970][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.59.01:393][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.59.14:227][ 23]Cmd: DELETE
+[2019.07.29-03.59.14:227][ 23]Cmd: ACTOR DELETE
+[2019.07.29-03.59.14:237][ 23]LogEditorActor: Deleted Actor: PlataformaArribaAbajo_C
+[2019.07.29-03.59.14:288][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.07.29-03.59.14:289][ 23]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.07.29-03.59.15:272][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-03.59.20:032][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-03.59.20:885][688]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-03.59.20:944][688]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo5351F65F40E04AD47CB618980B5991BA.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-03.59.20:951][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-03.59.21:007][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-03.59.21:379][688]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1514C757442701976F3E052A164AE7C23.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-03.59.21:438][688]LogFileHelpers: Saving map 'Nivel_1' took 0.488
+[2019.07.29-04.00.07:606][440]LogSlate: Took 0.019411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.29-04.02.49:963][914]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.02.49:986][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.02.49:986][914]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.29-04.02.49:987][914]LogPlayLevel: [PlayLevel] Compiling PlataformaArribaAbajo before play...
+[2019.07.29-04.02.50:216][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.07.29-04.02.50:216][914]LogPlayLevel: PlayLevel: Blueprint regeneration took 229 ms (1 blueprints)
+[2019.07.29-04.02.50:216][914]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:02:50 PM)
+[2019.07.29-04.02.50:217][914]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.02.50:233][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015938s)
+[2019.07.29-04.02.50:233][914]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.02.50:234][914]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.07.29-04.02.50:234][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017021s)
+[2019.07.29-04.02.50:273][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.29-04.02.50:282][914]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.02.50:291][914]LogInit: FAudioDevice initialized.
+[2019.07.29-04.02.50:294][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.02.50:325][914]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.02.50:328][914]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.02.50
+[2019.07.29-04.02.50:328][914]LogWorld: Bringing up level for play took: 0.001945
+[2019.07.29-04.02.50:344][914]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.089
+[2019.07.29-04.02.50:345][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.02.50:373][915]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.07.29-04.02.52:596][115]LogSlate: Window 'Nivel_1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.29-04.02.52:599][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.02.52:630][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.02.52:630][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.02.52:698][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.07.29-04.02.52:705][116]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.07.29-04.03.09:842][ 75]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.29-04.03.35:194][ 46]Cmd: TRANSACTION UNDO
+[2019.07.29-04.03.35:194][ 46]LogEditorTransaction: Undo Select Interpolation Mode
+[2019.07.29-04.05.11:938][394]LogSlate: Window 'Create External Curve' being destroyed
+[2019.07.29-04.07.58:674][465]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajoF825C7934CCF313B7761249A90E0A65A.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-04.08.00:025][624]BlueprintLog: New page: Compile PlataformaArribaAbajo
+[2019.07.29-04.08.00:324][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.07.29-04.09.35:190][207]LogSlate: Took 0.034183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.29-04.09.49:100][875]BlueprintLog: New page: Compile PlataformaArribaAbajo
+[2019.07.29-04.09.49:342][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.07.29-04.09.49:423][875]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajoE97822C441B14C45FD80D9A387732DB1.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-04.10.43:759][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.07.29-04.10.43:759][207]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Nivel/Nivel_1' took 0.067
+[2019.07.29-04.10.43:761][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Blueprints/PlataformaArribaAbajo] ([1] browsable assets)...
+[2019.07.29-04.10.43:779][207]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Blueprints/PlataformaArribaAbajo.PlataformaArribaAbajo]
+[2019.07.29-04.10.43:779][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Blueprints/PlataformaArribaAbajo]
+[2019.07.29-04.10.43:803][207]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo_Auto89A137D774A29E764D0C6779D2BACE9C2.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Blueprints/PlataformaArribaAbajo_Auto8.uasset'
+[2019.07.29-04.10.43:806][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Curvas/EmpiezaArriba] ([1] browsable assets)...
+[2019.07.29-04.10.43:806][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Curvas/EmpiezaArriba]
+[2019.07.29-04.10.43:817][207]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EmpiezaArriba_Auto818F5EB8848ABD91848D90092094E78FE.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Curvas/EmpiezaArriba_Auto8.uasset'
+[2019.07.29-04.10.43:818][207]LogFileHelpers: Auto-saving content packages took 0.058
+[2019.07.29-04.22.45:565][978]BlueprintLog: New page: Compile PlataformaArribaAbajo
+[2019.07.29-04.22.45:797][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.07.29-04.22.45:901][978]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo97EFC6BE4DC0D1BF8E95D2B0EE623724.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-04.22.47:196][122]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo8B99AB4F44BFC707C8589BB6FACDD2C4.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-04.22.58:891][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.22.59:004][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.07.29-04.23.00:189][517]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-04.23.00:198][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Curvas/EmpiezaArriba" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Curvas/EmpiezaArriba.uasset" SILENT=true
+[2019.07.29-04.23.00:205][517]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EmpiezaArriba37CA22B64D10D96A5BC69CA999931A1A.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Curvas/EmpiezaArriba.uasset'
+[2019.07.29-04.23.15:477][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.23.28:333][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.23.29:576][908]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.23.43:325][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.23.59:743][363]Cmd: DELETE
+[2019.07.29-04.23.59:743][363]Cmd: ACTOR DELETE
+[2019.07.29-04.23.59:804][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.07.29-04.23.59:804][363]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2019.07.29-04.24.20:861][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-04.24.20:902][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-04.24.21:266][758]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_169C366E44605D4C1C5050A879611047D.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-04.24.21:328][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-04.24.21:493][758]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData67CE9320411C5A91CF72ED84EF6D2F7E.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-04.24.55:067][513]Cmd: DELETE
+[2019.07.29-04.24.55:067][513]Cmd: ACTOR DELETE
+[2019.07.29-04.24.55:076][513]LogEditorActor: Deleted Actor: PlataformaArribaAbajo_C
+[2019.07.29-04.24.55:141][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.07.29-04.24.55:142][513]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.07.29-04.24.56:058][622]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.24.57:914][824]LogEditorViewport: Clicking on Actor (CTRL LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.25.10:172][152]LogEditorViewport: Clicking on Actor (CTRL LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.25.10:872][227]LogEditorViewport: Clicking on Actor (CTRL LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.25.15:508][738]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.25.17:437][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.07.29-04.25.18:538][ 79]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo4)
+[2019.07.29-04.25.21:465][398]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo3)
+[2019.07.29-04.25.22:957][558]Cmd: SELECT NONE
+[2019.07.29-04.25.26:925][ 29]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.07.29-04.25.26:951][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.25.28:032][108]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.25.29:482][266]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.25.34:590][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.25.34:642][832]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.25.34:659][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.34:659][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.25.34:659][832]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:25:34 PM)
+[2019.07.29-04.25.34:659][832]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.25.34:677][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017104s)
+[2019.07.29-04.25.34:678][832]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.25.34:678][832]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2019.07.29-04.25.34:678][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017828s)
+[2019.07.29-04.25.34:730][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.29-04.25.34:739][832]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.25.34:748][832]LogInit: FAudioDevice initialized.
+[2019.07.29-04.25.34:789][832]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.25.34:794][832]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.25.34
+[2019.07.29-04.25.34:794][832]LogWorld: Bringing up level for play took: 0.004264
+[2019.07.29-04.25.34:834][832]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.58
+[2019.07.29-04.25.34:835][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.44:964][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.44:964][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.25.44:997][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.25.44:997][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.45:059][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.25.45:063][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.07.29-04.25.45:084][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.07.29-04.25.51:260][753]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.07.29-04.25.51:286][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.25.53:074][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.53:074][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.25.53:074][929]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:25:53 PM)
+[2019.07.29-04.25.53:074][929]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.25.53:091][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016773s)
+[2019.07.29-04.25.53:091][929]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.25.53:091][929]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.07.29-04.25.53:091][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017471s)
+[2019.07.29-04.25.53:128][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.07.29-04.25.53:136][929]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.25.53:144][929]LogInit: FAudioDevice initialized.
+[2019.07.29-04.25.53:144][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.25.53:170][929]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.25.53:172][929]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.25.53
+[2019.07.29-04.25.53:173][929]LogWorld: Bringing up level for play took: 0.002099
+[2019.07.29-04.25.53:186][929]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.931
+[2019.07.29-04.25.53:186][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.56:428][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.56:428][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.25.56:458][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.25.56:459][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.25.56:518][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.25.56:522][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.29-04.25.56:540][315]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.07.29-04.25.58:701][572]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.26.03:397][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.26.12:703][127]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo4)
+[2019.07.29-04.26.14:352][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.26.24:703][465]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo3)
+[2019.07.29-04.26.26:700][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.26.31:923][275]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo4)
+[2019.07.29-04.26.39:120][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.26.40:531][247]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.26.41:659][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.26.46:323][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.26.49:342][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.26.49:342][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.26.49:343][222]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:26:49 PM)
+[2019.07.29-04.26.49:343][222]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.26.49:360][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016871s)
+[2019.07.29-04.26.49:360][222]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.26.49:360][222]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.07.29-04.26.49:360][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017550s)
+[2019.07.29-04.26.49:400][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.07.29-04.26.49:408][222]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.26.49:416][222]LogInit: FAudioDevice initialized.
+[2019.07.29-04.26.49:416][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.26.49:446][222]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.26.49:450][222]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.26.49
+[2019.07.29-04.26.49:451][222]LogWorld: Bringing up level for play took: 0.004132
+[2019.07.29-04.26.49:466][222]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.788
+[2019.07.29-04.26.49:480][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.19:628][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.19:629][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.19:660][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.27.19:661][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.19:716][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.19:721][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.07.29-04.27.19:742][774]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.07.29-04.27.23:702][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.27.29:010][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.27.29:093][853]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.27.29:105][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.29:105][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.27.29:105][853]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:27:29 PM)
+[2019.07.29-04.27.29:105][853]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.27.29:122][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016655s)
+[2019.07.29-04.27.29:122][853]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.27.29:123][853]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2019.07.29-04.27.29:123][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017337s)
+[2019.07.29-04.27.29:156][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.07.29-04.27.29:164][853]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.27.29:172][853]LogInit: FAudioDevice initialized.
+[2019.07.29-04.27.29:199][853]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.27.29:203][853]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.27.29
+[2019.07.29-04.27.29:204][853]LogWorld: Bringing up level for play took: 0.004506
+[2019.07.29-04.27.29:218][853]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.963
+[2019.07.29-04.27.29:219][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.31:301][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.31:301][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.31:332][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.27.31:332][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.31:394][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.31:398][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.07.29-04.27.31:413][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.07.29-04.27.32:586][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.27.32:599][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.32:599][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.27.32:599][237]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:27:32 PM)
+[2019.07.29-04.27.32:599][237]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.27.32:615][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016293s)
+[2019.07.29-04.27.32:616][237]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.27.32:616][237]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.07.29-04.27.32:616][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017033s)
+[2019.07.29-04.27.32:649][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.07.29-04.27.32:657][237]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.27.32:665][237]LogInit: FAudioDevice initialized.
+[2019.07.29-04.27.32:693][237]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.27.32:695][237]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.27.32
+[2019.07.29-04.27.32:695][237]LogWorld: Bringing up level for play took: 0.001824
+[2019.07.29-04.27.32:708][237]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.454
+[2019.07.29-04.27.32:708][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.52:238][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.52:238][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.52:269][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.27.52:269][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.52:330][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.27.52:334][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.29-04.27.52:354][575]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.29-04.27.53:980][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.27.55:602][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.27.55:670][964]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.27.55:682][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.27.55:682][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.27.55:682][964]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:27:55 PM)
+[2019.07.29-04.27.55:682][964]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.27.55:699][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016365s)
+[2019.07.29-04.27.55:699][964]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.27.55:699][964]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.07.29-04.27.55:699][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017064s)
+[2019.07.29-04.27.55:731][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.29-04.27.55:740][964]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.27.55:747][964]LogInit: FAudioDevice initialized.
+[2019.07.29-04.27.55:776][964]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.27.55:781][964]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.27.55
+[2019.07.29-04.27.55:781][964]LogWorld: Bringing up level for play took: 0.004777
+[2019.07.29-04.27.55:796][964]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.459
+[2019.07.29-04.27.55:797][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.29.03:222][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.29.03:222][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.29.03:255][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.29.03:255][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.29.03:318][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.29.03:323][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.29-04.29.03:342][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.07.29-04.31.11:050][840]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo4)
+[2019.07.29-04.31.11:659][906]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo2)
+[2019.07.29-04.31.14:021][166]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.31.16:132][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.31.36:596][480]LogEditorViewport: Clicking on Actor (context menu): PlataformaArribaAbajo_C (PlataformaArribaAbajo)
+[2019.07.29-04.31.36:617][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.31.38:268][628]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.31.38:282][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.31.38:282][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.31.38:282][628]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:31:38 PM)
+[2019.07.29-04.31.38:282][628]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.31.38:299][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016497s)
+[2019.07.29-04.31.38:299][628]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.31.38:299][628]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2019.07.29-04.31.38:299][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017236s)
+[2019.07.29-04.31.38:334][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.07.29-04.31.38:343][628]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.31.38:351][628]LogInit: FAudioDevice initialized.
+[2019.07.29-04.31.38:380][628]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.31.38:384][628]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.31.38
+[2019.07.29-04.31.38:384][628]LogWorld: Bringing up level for play took: 0.003876
+[2019.07.29-04.31.38:399][628]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.144
+[2019.07.29-04.31.38:399][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.31.53:924][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.31.53:924][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.31.53:953][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.31.53:954][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.31.54:012][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.31.54:016][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.29-04.31.54:033][489]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.07.29-04.31.55:902][712]Cmd: TRANSACTION UNDO
+[2019.07.29-04.31.55:903][712]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.07.29-04.31.56:690][792]Cmd: TRANSACTION UNDO
+[2019.07.29-04.31.56:691][792]LogEditorTransaction: Undo Edit Static Mesh
+[2019.07.29-04.32.05:956][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.32.20:804][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.07.29-04.32.22:096][577]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-04.32.22:158][577]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/PlataformaArribaAbajo62F7746E4190A63683958BA38566B1FE.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/PlataformaArribaAbajo.uasset'
+[2019.07.29-04.32.22:164][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-04.32.22:218][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-04.32.22:543][577]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1CBA27CC848178A448DC24BB461D4585E.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-04.32.22:593][577]LogFileHelpers: Saving map 'Nivel_1' took 0.429
+[2019.07.29-04.32.38:055][331]BlueprintLog: New page: Compile PlataformaArribaAbajo
+[2019.07.29-04.32.38:338][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.07.29-04.32.42:169][774]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo3)
+[2019.07.29-04.32.45:305][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.32.51:678][859]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.32.51:694][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.32.51:694][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.32.51:694][859]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:32:51 PM)
+[2019.07.29-04.32.51:694][859]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.32.51:711][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016603s)
+[2019.07.29-04.32.51:711][859]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.32.51:712][859]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.07.29-04.32.51:712][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017301s)
+[2019.07.29-04.32.51:749][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.07.29-04.32.51:758][859]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.32.51:765][859]LogInit: FAudioDevice initialized.
+[2019.07.29-04.32.51:797][859]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.32.51:799][859]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.32.51
+[2019.07.29-04.32.51:799][859]LogWorld: Bringing up level for play took: 0.001918
+[2019.07.29-04.32.51:813][859]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.442
+[2019.07.29-04.32.51:813][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.08:154][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.08:155][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.33.08:182][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.33.08:182][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.08:231][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.33.08:235][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.29-04.33.08:255][819]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.07.29-04.33.09:371][952]LogEditorViewport: Clicking on Actor (LMB): PlataformaArribaAbajo_C (PlataformaArribaAbajo3)
+[2019.07.29-04.33.11:937][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.33.14:966][594]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.33.14:978][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.14:979][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.33.14:979][594]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:33:14 PM)
+[2019.07.29-04.33.14:979][594]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.33.14:995][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016448s)
+[2019.07.29-04.33.14:996][594]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.33.14:996][594]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.07.29-04.33.14:996][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017184s)
+[2019.07.29-04.33.15:034][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.07.29-04.33.15:043][594]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.33.15:050][594]LogInit: FAudioDevice initialized.
+[2019.07.29-04.33.15:076][594]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.33.15:078][594]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.33.15
+[2019.07.29-04.33.15:078][594]LogWorld: Bringing up level for play took: 0.001847
+[2019.07.29-04.33.15:091][594]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.836
+[2019.07.29-04.33.15:091][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.37:519][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.37:519][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.33.37:552][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.33.37:552][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.33.37:612][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.33.37:616][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.07.29-04.33.37:628][280]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.07.29-04.33.46:122][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.34.02:164][156]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.29-04.34.14:527][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.07.29-04.34.14:529][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.34.14:541][ 77]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo2D2AA76344832B2DF8AD79BDE1741046.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.Enemigo:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.SKEL_Enemigo_C' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.Enemigo_C' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.Enemigo:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.Enemigo:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:544][ 77]LogMetaData: Removing '/Game/MyContent/Blueprints/Enemigo.Enemigo:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyContent/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.29-04.34.14:559][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.34.14:585][ 77]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo336FAF184BD951497F1E31A541C24312.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.34.14:845][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.07.29-04.34.14:880][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.29-04.34.14:919][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.07.29-04.34.16:910][307]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/Blueprints/Enemigo.Enemigo
+[2019.07.29-04.35.59:742][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.36.22:817][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.36.28:013][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.36.39:000][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.36.39:050][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.36.39:071][673]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo8DCE4E91415C1B16447CE29E64058035.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.36.40:011][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.36.40:061][789]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.36.40:305][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.07.29-04.37.15:745][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.07.29-04.37.16:660][981]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-04.37.16:670][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-04.37.16:703][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.07.29-04.37.17:097][981]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1D6DFD25D47F041D20D1D6186366545DA.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-04.37.17:139][981]LogFileHelpers: Saving map 'Nivel_1' took 0.469
+[2019.07.29-04.37.32:656][766]Cmd: DELETE
+[2019.07.29-04.37.32:656][766]Cmd: ACTOR DELETE
+[2019.07.29-04.37.32:662][766]LogEditorActor: Deleted Actor: Enemigo_C
+[2019.07.29-04.37.32:719][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.07.29-04.37.32:719][766]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.07.29-04.37.33:689][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.38.02:278][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.38.12:060][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.38.36:831][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.38.42:962][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.38.46:568][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.38.53:082][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.38.53:158][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.38.53:180][952]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoB6714F3A4D231BFAA84F16994082CF5B.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.38.53:872][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.38.53:921][ 40]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.38.54:201][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.29-04.38.57:338][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.07.29-04.38.58:350][407]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-04.38.58:361][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-04.38.58:400][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-04.38.58:777][407]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1B9CA383949873758F42F3A892A92AAE6.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-04.38.58:837][407]LogFileHelpers: Saving map 'Nivel_1' took 0.476
+[2019.07.29-04.39.06:001][215]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-04.39.07:155][337]Cmd: DELETE
+[2019.07.29-04.39.07:155][337]Cmd: ACTOR DELETE
+[2019.07.29-04.39.07:163][337]LogEditorActor: Deleted Actor: Enemigo_C
+[2019.07.29-04.39.07:209][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.07.29-04.39.07:209][337]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.07.29-04.39.08:242][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.39.21:943][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.43.45:318][670]LogEditorTransaction: Undo New Value Entered
+[2019.07.29-04.43.45:749][718]LogEditorTransaction: Undo New Time Entered
+[2019.07.29-04.43.46:149][764]LogEditorTransaction: Undo Add Key(s)
+[2019.07.29-04.43.46:528][806]LogEditorTransaction: Undo Add Key(s)
+[2019.07.29-04.43.46:983][859]LogEditorTransaction: Undo Add Key(s)
+[2019.07.29-04.45.04:153][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.45.04:190][660]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoADABC0B44FD29CCD2387059E6DF21A04.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.45.04:800][731]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.45.05:164][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.07.29-04.45.48:058][ 97]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.45.48:265][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.07.29-04.45.48:298][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.45.48:328][ 97]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo5AA99B0C49B92296BCA02FA6E6B0FAF7.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.46.14:245][755]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.46.14:509][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.07.29-04.46.14:547][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.46.14:610][755]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo14099EA24D1926B3462DAF83D243B861.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.49.37:535][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.07.29-04.49.38:000][736]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_Auto986B56F754C8ADE80EDFED28ED21ACC9F.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Nivel/Nivel_1_Auto9.umap'
+[2019.07.29-04.49.38:006][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Nivel/Nivel_1' took 0.527
+[2019.07.29-04.49.38:006][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.527
+[2019.07.29-04.49.38:008][736]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Blueprints/Enemigo] ([1] browsable assets)...
+[2019.07.29-04.49.38:041][736]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Blueprints/Enemigo.Enemigo]
+[2019.07.29-04.49.38:041][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Blueprints/Enemigo]
+[2019.07.29-04.49.38:105][736]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo_Auto9C9E4937042571B8EF84245856B6821E3.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Blueprints/Enemigo_Auto9.uasset'
+[2019.07.29-04.49.38:106][736]LogFileHelpers: Auto-saving content packages took 0.099
+[2019.07.29-04.52.31:373][397]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.52.31:673][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.07.29-04.52.31:705][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.52.31:760][397]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo69BDD41B47B965A3EC39A1A1D900E265.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.52.32:373][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.52.32:397][465]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoA1D82CEC43AD5182360D50B48645424F.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.52.35:161][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.07.29-04.52.36:219][780]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-04.52.36:230][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-04.52.36:267][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-04.52.36:676][780]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1EFBE008242D2C5D4D3751D97794406E6.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-04.52.36:742][780]LogFileHelpers: Saving map 'Nivel_1' took 0.512
+[2019.07.29-04.52.40:664][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.52.44:158][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.52.53:204][540]LogEditorViewport: Clicking on Actor (context menu): Enemigo_C (Enemigo)
+[2019.07.29-04.52.53:221][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.53.17:305][267]Cmd: DELETE
+[2019.07.29-04.53.17:305][267]Cmd: ACTOR DELETE
+[2019.07.29-04.53.17:313][267]LogEditorActor: Deleted Actor: Enemigo_C
+[2019.07.29-04.53.17:364][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.07.29-04.53.17:364][267]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.07.29-04.53.18:318][381]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo2)
+[2019.07.29-04.53.39:347][740]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-04.53.40:693][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.53.43:887][248]LogEditorViewport: Clicking on Actor (context menu): Enemigo_C (Enemigo)
+[2019.07.29-04.53.43:905][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-04.53.46:837][591]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.53.46:854][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.53.46:854][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.53.46:854][591]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:53:46 PM)
+[2019.07.29-04.53.46:854][591]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.53.46:871][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016770s)
+[2019.07.29-04.53.46:872][591]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.53.46:872][591]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.07.29-04.53.46:872][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017497s)
+[2019.07.29-04.53.46:907][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.29-04.53.46:916][591]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.53.46:923][591]LogInit: FAudioDevice initialized.
+[2019.07.29-04.53.46:956][591]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.53.46:960][591]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.53.46
+[2019.07.29-04.53.46:961][591]LogWorld: Bringing up level for play took: 0.004258
+[2019.07.29-04.53.46:975][591]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.721
+[2019.07.29-04.53.46:975][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.54.36:846][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.54.36:847][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.54.36:877][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.54.36:877][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.54.36:937][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.54.36:941][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.07.29-04.54.36:958][563]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.07.29-04.54.38:308][724]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo2)
+[2019.07.29-04.54.43:490][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.55.01:059][237]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (Fuego)
+[2019.07.29-04.55.01:079][238]LogEditorViewport: Clicking on Actor (double click): Enemigo_C (Enemigo2)
+[2019.07.29-04.55.02:927][445]Cmd: SELECT NONE
+[2019.07.29-04.55.11:597][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.55.11:663][491]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.55.11:676][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.55.11:676][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.55.11:677][491]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:55:11 PM)
+[2019.07.29-04.55.11:677][491]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.55.11:693][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016626s)
+[2019.07.29-04.55.11:694][491]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.55.11:694][491]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.07.29-04.55.11:694][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017383s)
+[2019.07.29-04.55.11:737][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.07.29-04.55.11:745][491]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.55.11:753][491]LogInit: FAudioDevice initialized.
+[2019.07.29-04.55.11:783][491]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.55.11:785][491]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.55.11
+[2019.07.29-04.55.11:785][491]LogWorld: Bringing up level for play took: 0.001936
+[2019.07.29-04.55.11:799][491]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.455
+[2019.07.29-04.55.11:800][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.55.21:549][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.55.21:550][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.55.21:583][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.55.21:583][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.55.21:644][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.55.21:648][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.29-04.55.21:664][659]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.29-04.55.23:064][825]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.23:064][825]LogEditorTransaction: Undo Select None
+[2019.07.29-04.55.24:674][989]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.24:674][989]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2019.07.29-04.55.25:796][103]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.25:796][103]LogEditorTransaction: Undo Clicking on Components
+[2019.07.29-04.55.28:032][351]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.28:032][351]LogEditorTransaction: Undo Rotate Components
+[2019.07.29-04.55.29:803][546]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.29:803][546]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2019.07.29-04.55.32:254][811]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.32:254][811]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.29-04.55.34:926][131]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.34:926][131]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.07.29-04.55.36:867][339]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.36:867][339]LogEditorTransaction: Undo Edit Movimiento En X
+[2019.07.29-04.55.37:885][447]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.37:885][447]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.29-04.55.38:742][532]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.38:742][532]LogEditorTransaction: Undo Move Actors
+[2019.07.29-04.55.39:445][609]Cmd: TRANSACTION UNDO
+[2019.07.29-04.55.39:445][609]LogEditorTransaction: Undo Move Actors
+[2019.07.29-04.55.42:094][902]Cmd: TRANSACTION REDO
+[2019.07.29-04.55.42:094][902]LogEditorTransaction: Redo Move Actors
+[2019.07.29-04.55.48:754][650]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-04.55.50:589][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.55.52:142][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-04.55.52:155][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.55.52:155][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-04.55.52:155][ 41]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 10:55:52 PM)
+[2019.07.29-04.55.52:155][ 41]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-04.55.52:172][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016737s)
+[2019.07.29-04.55.52:173][ 41]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-04.55.52:173][ 41]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.07.29-04.55.52:173][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017441s)
+[2019.07.29-04.55.52:210][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.29-04.55.52:219][ 41]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-04.55.52:227][ 41]LogInit: FAudioDevice initialized.
+[2019.07.29-04.55.52:255][ 41]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-04.55.52:257][ 41]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-01.55.52
+[2019.07.29-04.55.52:257][ 41]LogWorld: Bringing up level for play took: 0.002053
+[2019.07.29-04.55.52:271][ 41]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.016
+[2019.07.29-04.55.52:271][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.56.15:176][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.56.15:177][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.56.15:212][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-04.56.15:212][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-04.56.15:272][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-04.56.15:277][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.29-04.56.15:294][786]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.07.29-04.56.17:731][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-04.59.55:377][799]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-04.59.55:609][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.07.29-04.59.55:647][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.59.55:690][799]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoE06E50C14435CA57314908A87C315E8B.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-04.59.57:365][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-04.59.57:390][996]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoB3E8C1524CAD8A8F09195BB54E7E32AD.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.00.46:943][742]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.29-05.00.54:946][678]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.00.55:251][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.07.29-05.00.55:286][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.00.55:364][678]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoD08E648E4D17154294270DA807DC34F3.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.00.56:736][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.00.56:762][834]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo766A27DF40FB1516B4475983E1931EC4.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.00.59:847][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.00.59:867][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.00.59:867][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.00.59:867][200]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:00:59 PM)
+[2019.07.29-05.00.59:867][200]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.00.59:884][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016649s)
+[2019.07.29-05.00.59:885][200]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.00.59:885][200]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.07.29-05.00.59:885][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017455s)
+[2019.07.29-05.00.59:923][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.07.29-05.00.59:932][200]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.00.59:940][200]LogInit: FAudioDevice initialized.
+[2019.07.29-05.00.59:944][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.00.59:971][200]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.00.59:974][200]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.00.59
+[2019.07.29-05.00.59:974][200]LogWorld: Bringing up level for play took: 0.002047
+[2019.07.29-05.00.59:989][200]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.266
+[2019.07.29-05.00.59:990][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.11:480][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.11:480][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.01.11:497][455]LogSlate: Window 'Nivel_1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.29-05.01.11:533][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.01.11:533][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.11:597][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.07.29-05.01.11:623][456]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.07.29-05.01.17:779][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.07.29-05.01.19:418][180]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-05.01.19:429][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.01.19:468][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.07.29-05.01.19:971][180]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_15AB92B484B1657DD2E33569E8F11BB77.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.01.20:027][180]LogFileHelpers: Saving map 'Nivel_1' took 0.598
+[2019.07.29-05.01.21:210][318]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-05.01.21:314][326]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (Fuego)
+[2019.07.29-05.01.24:006][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.01.29:882][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.01.29:966][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.01.29:979][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.29:979][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.01.29:979][305]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:01:29 PM)
+[2019.07.29-05.01.29:979][305]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.01.29:996][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016865s)
+[2019.07.29-05.01.29:996][305]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.01.29:997][305]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.07.29-05.01.29:997][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017564s)
+[2019.07.29-05.01.30:037][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.07.29-05.01.30:046][305]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.01.30:053][305]LogInit: FAudioDevice initialized.
+[2019.07.29-05.01.30:079][305]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.01.30:081][305]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.01.30
+[2019.07.29-05.01.30:082][305]LogWorld: Bringing up level for play took: 0.002076
+[2019.07.29-05.01.30:096][305]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.159
+[2019.07.29-05.01.30:097][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.32:664][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.32:664][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.01.32:702][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.01.32:702][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.01.32:762][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.01.32:767][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.07.29-05.01.32:779][611]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.07.29-05.01.33:812][733]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-05.01.36:173][974]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo3)
+[2019.07.29-05.01.37:075][ 63]Cmd: DELETE
+[2019.07.29-05.01.37:075][ 63]Cmd: ACTOR DELETE
+[2019.07.29-05.01.37:080][ 63]LogEditorActor: Deleted Actor: Enemigo_C
+[2019.07.29-05.01.37:123][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.07.29-05.01.37:124][ 63]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.07.29-05.01.39:312][324]LogEditorViewport: Clicking on Actor (context menu): Enemigo_C (Enemigo)
+[2019.07.29-05.01.39:347][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.01.42:434][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.01.43:211][719]Cmd: SELECT NONE
+[2019.07.29-05.01.50:532][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.02.04:298][213]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.02.04:604][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.07.29-05.02.04:632][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.02.04:672][213]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo64F78537417796EA68AD5E810D782F0A.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.02.05:209][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.02.05:234][273]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo104F9179485FC15E5C9B339319837511.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.02.07:803][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.02.07:841][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.07.29-05.02.08:213][578]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1A102D46743E04819808377A654767F03.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.02.08:279][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.02.08:421][578]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData82D1AAEA4B11F1FCE1AA9D9A28789CCD.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.02.12:088][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.02.40:851][314]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.02.41:165][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.07.29-05.02.41:202][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.02.41:262][314]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoB5A05BD2406372A8A4D6609357F0F2FA.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.02.41:972][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.02.41:997][388]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoFA9957FB4FE1836AB9377B89060D9713.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.02.43:012][505]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.29-05.02.47:938][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.02.47:958][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.02.47:958][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.02.47:958][ 86]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:02:47 PM)
+[2019.07.29-05.02.47:958][ 86]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.02.47:982][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023886s)
+[2019.07.29-05.02.47:983][ 86]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.02.47:983][ 86]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.07.29-05.02.47:983][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.025109s)
+[2019.07.29-05.02.48:036][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.07.29-05.02.48:045][ 86]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.02.48:053][ 86]LogInit: FAudioDevice initialized.
+[2019.07.29-05.02.48:056][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.02.48:086][ 86]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.02.48:089][ 86]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.02.48
+[2019.07.29-05.02.48:090][ 86]LogWorld: Bringing up level for play took: 0.002348
+[2019.07.29-05.02.48:105][ 86]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.149
+[2019.07.29-05.02.48:106][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.01:808][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.01:808][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.03.01:821][603]LogSlate: Window 'Nivel_1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.29-05.03.01:863][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.03.01:863][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.01:941][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.07.29-05.03.01:967][604]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.07.29-05.03.08:545][389]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.03.08:783][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.07.29-05.03.08:811][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.03.08:868][389]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo43E4DDA2440B4E648EFF41BB29257CB1.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.03.11:701][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.03.11:737][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.07.29-05.03.12:258][715]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_125B11BE24DD599E03EF0DFA39D1E4AA8.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.03.12:314][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.03.12:447][715]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData0E46E6D844DD3B553CF56FB507A27A9E.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.03.13:086][789]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.03.13:106][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.13:106][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.03.13:106][789]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:03:13 PM)
+[2019.07.29-05.03.13:106][789]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.03.13:123][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016778s)
+[2019.07.29-05.03.13:124][789]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.03.13:124][789]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.07.29-05.03.13:124][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017481s)
+[2019.07.29-05.03.13:167][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.29-05.03.13:175][789]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.03.13:183][789]LogInit: FAudioDevice initialized.
+[2019.07.29-05.03.13:212][789]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.03.13:217][789]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.03.13
+[2019.07.29-05.03.13:217][789]LogWorld: Bringing up level for play took: 0.004705
+[2019.07.29-05.03.13:232][789]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.977
+[2019.07.29-05.03.13:233][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.16:337][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.16:337][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.03.16:366][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.03.16:366][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.03.16:425][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.03.16:429][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.07.29-05.03.16:441][160]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.07.29-05.03.58:899][140]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.03.59:129][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.07.29-05.03.59:169][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.03.59:203][140]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo5FAD75F048A8D44575AC94AFFA387839.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.04.28:563][567]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.04.28:857][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.07.29-05.04.28:894][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.04.28:935][567]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoA3A8B42C4AF38A0F94B3F68A3736C174.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.04.29:570][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.04.29:595][638]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo903949124B15EBE42F9941B0C2FA93B6.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.04.30:840][785]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.04.30:859][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.30:859][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.04.30:859][785]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:04:30 PM)
+[2019.07.29-05.04.30:860][785]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.04.30:876][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016355s)
+[2019.07.29-05.04.30:876][785]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.04.30:877][785]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.07.29-05.04.30:877][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017066s)
+[2019.07.29-05.04.30:929][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.07.29-05.04.30:939][785]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.04.30:947][785]LogInit: FAudioDevice initialized.
+[2019.07.29-05.04.30:951][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.04.30:982][785]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.04.30:985][785]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.04.30
+[2019.07.29-05.04.30:985][785]LogWorld: Bringing up level for play took: 0.002054
+[2019.07.29-05.04.31:000][785]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.746
+[2019.07.29-05.04.31:001][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.39:506][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.39:507][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.04.39:523][708]LogSlate: Window 'Nivel_1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.29-05.04.39:562][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.04.39:563][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.39:626][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.07.29-05.04.39:652][709]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.07.29-05.04.43:655][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.04.43:695][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-05.04.44:156][184]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1236C81C342545430EB620190F56F232E.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.04.44:213][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.04.44:359][184]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData9814342D4A67FC4140E85BB38B326E79.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.04.45:548][324]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.04.45:561][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.45:561][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.04.45:561][324]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:04:45 PM)
+[2019.07.29-05.04.45:561][324]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.04.45:578][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016939s)
+[2019.07.29-05.04.45:579][324]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.04.45:579][324]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.07.29-05.04.45:579][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.017589s)
+[2019.07.29-05.04.45:613][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.07.29-05.04.45:622][324]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.04.45:629][324]LogInit: FAudioDevice initialized.
+[2019.07.29-05.04.45:657][324]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.04.45:659][324]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.04.45
+[2019.07.29-05.04.45:659][324]LogWorld: Bringing up level for play took: 0.002304
+[2019.07.29-05.04.45:674][324]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.581
+[2019.07.29-05.04.45:674][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.49:161][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.49:161][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.04.49:197][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.04.49:197][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.04.49:253][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.04.49:257][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.07.29-05.04.49:269][741]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.07.29-05.04.52:222][ 92]MapCheck: New page: Map Check
+[2019.07.29-05.04.52:234][ 92]Cmd: MAP REBUILD ALLVISIBLE
+[2019.07.29-05.04.52:235][ 92]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.07.29-05.04.52:780][ 92]LightingResults: New page: Lighting Build - Jul 28, 2019, 11:04:52 PM
+[2019.07.29-05.04.52:790][ 92]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.29-05.04.52:795][ 92]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.29-05.04.52:795][ 92]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.29-05.04.52:797][ 92]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.29-05.04.52:797][ 92]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6236
+[2019.07.29-05.04.57:317][ 92]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.29-05.04.57:318][ 92]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.29-05.04.57:318][ 92]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.29-05.04.57:318][ 92]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.29-05.04.57:318][ 92]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.29-05.04.57:318][ 92]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.29-05.04.57:514][ 92]LogEditorBuildUtils: Build time 0:05
+[2019.07.29-05.04.57:733][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.29-05.05.01:718][402]Job is a success!
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.062s
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:      BrickData 1070x5x5 = 0.9Mb
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:          0: 3.7% covering 100.0% of volume
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:          1: 5.6% covering 2.3% of volume
+[2019.07.29-05.05.01:858][403]LogVolumetricLightmapImport:          2: 90.7% covering 0.6% of volume
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.07.29-05.05.02:322][403]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.07.29-05.05.02:341][403]LogStaticLightingSystem: Nivel_1_BuiltData storing lightmap data for 62 meshes in 3 LightmapResourceClusters (20.7 Meshes per cluster).
+[2019.07.29-05.05.02:384][403]Lightmass on DESKTOP-246MP68: 3.86 sec total, 140 ms importing, 45 ms setup, 851 ms photons, 2.79 sec processing, 0 ms extra exporting [176/176 mappings]. Threads: 30.2 sec total, 10.2 sec processing.
+[2019.07.29-05.05.02:388][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.07.29-05.05.02:403][403]LogStaticLightingSystem: Illumination: 9.60 sec (283 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.07.29-05.05.02:403][403]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.07.29-05.05.02:403][403]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.07.29-05.05.07:327][403]DumpUnbuiltLightIteractions
+[2019.07.29-05.05.07:327][403]Lights with unbuilt interactions: 0
+[2019.07.29-05.05.07:327][403]
+[2019.07.29-05.05.07:327][403]Primitives with unbuilt interactions: 0
+[2019.07.29-05.05.07:394][404]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.29-05.05.07:394][404]MapCheck: New page: Nivel_1 - Jul 28, 2019, 11:05:07 PM
+[2019.07.29-05.05.07:395][404]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.718ms to complete.
+[2019.07.29-05.05.17:869][656]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.05.17:882][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.05.17:882][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.05.17:882][656]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:05:17 PM)
+[2019.07.29-05.05.17:882][656]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.05.17:902][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019594s)
+[2019.07.29-05.05.17:902][656]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.05.17:902][656]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.07.29-05.05.17:902][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.020273s)
+[2019.07.29-05.05.17:942][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.07.29-05.05.17:950][656]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.05.17:958][656]LogInit: FAudioDevice initialized.
+[2019.07.29-05.05.17:987][656]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.05.17:989][656]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.05.17
+[2019.07.29-05.05.17:990][656]LogWorld: Bringing up level for play took: 0.002195
+[2019.07.29-05.05.18:004][656]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.25
+[2019.07.29-05.05.18:005][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.05.21:089][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.05.21:089][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.05.21:118][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.05.21:118][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.05.21:180][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.05.21:184][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.07.29-05.05.21:196][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.07.29-05.05.31:052][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.05.31:117][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.05.31:158][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-05.05.31:671][210]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1B8D19728446D1DC5C77F7E88F0EC54D3.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.05.31:724][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.05.31:885][210]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData10E969F345B3BCBD5BF848978EFF9737.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.05.58:057][295]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.05.58:291][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.07.29-05.05.58:330][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.05.58:413][295]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo0E32E5654A40BC595ACF5F843362D99F.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.06.01:277][627]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.06.01:297][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.01:297][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.06.01:297][627]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:06:01 PM)
+[2019.07.29-05.06.01:297][627]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.06.01:316][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019100s)
+[2019.07.29-05.06.01:317][627]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.06.01:317][627]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2019.07.29-05.06.01:317][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.019818s)
+[2019.07.29-05.06.01:371][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.07.29-05.06.01:380][627]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.06.01:389][627]LogInit: FAudioDevice initialized.
+[2019.07.29-05.06.01:420][627]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.06.01:425][627]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.06.01
+[2019.07.29-05.06.01:425][627]LogWorld: Bringing up level for play took: 0.004717
+[2019.07.29-05.06.01:439][627]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.815
+[2019.07.29-05.06.01:439][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.03:473][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.03:473][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.06.03:501][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.06.03:501][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.03:561][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.06.03:569][869]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.07.29-05.06.03:581][870]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.07.29-05.06.05:019][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.07.29-05.06.05:977][ 28]LogSlate: Window 'Save Content' being destroyed
+[2019.07.29-05.06.05:998][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.06.06:037][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-05.06.06:564][ 28]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_19B65E94241CE69FEC757739562369223.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.06.06:599][ 28]LogFileHelpers: Saving map 'Nivel_1' took 0.601
+[2019.07.29-05.06.07:259][105]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.06.07:271][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.07:272][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.06.07:272][105]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:06:07 PM)
+[2019.07.29-05.06.07:272][105]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.06.07:291][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019388s)
+[2019.07.29-05.06.07:292][105]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.06.07:292][105]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.07.29-05.06.07:292][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.020094s)
+[2019.07.29-05.06.07:346][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.07.29-05.06.07:354][105]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.06.07:361][105]LogInit: FAudioDevice initialized.
+[2019.07.29-05.06.07:391][105]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.06.07:393][105]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.06.07
+[2019.07.29-05.06.07:393][105]LogWorld: Bringing up level for play took: 0.002169
+[2019.07.29-05.06.07:409][105]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.846
+[2019.07.29-05.06.07:409][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.09:026][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.09:027][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.06.09:058][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.06.09:058][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.06.09:125][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.06.09:129][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.07.29-05.06.09:142][298]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.07.29-05.11.55:539][602]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2019.07.29-05.12.01:404][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.16.07:088][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.29-05.16.07:752][573]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_Auto095A1E3B0479C326E5C10CFA553351C15.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Nivel/Nivel_1_Auto0.umap'
+[2019.07.29-05.16.07:758][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Nivel/Nivel_1' took 0.725
+[2019.07.29-05.16.07:758][573]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.725
+[2019.07.29-05.16.07:762][573]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Blueprints/Enemigo] ([1] browsable assets)...
+[2019.07.29-05.16.07:800][573]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Blueprints/Enemigo.Enemigo]
+[2019.07.29-05.16.07:800][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Blueprints/Enemigo]
+[2019.07.29-05.16.07:899][573]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo_Auto0936E4BB64E26E05D7D77EC985CC8DB4E.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Autosaves/Game/MyContent/Blueprints/Enemigo_Auto0.uasset'
+[2019.07.29-05.16.07:902][573]LogFileHelpers: Auto-saving content packages took 0.140
+[2019.07.29-05.20.49:934][241]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.20.50:242][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.07.29-05.20.50:277][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.20.50:316][241]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo57E9703E4AB06B6AD87815B46409F8F7.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.20.50:920][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.20.50:944][308]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Enemigo2AE161834911506623B733B37564E43B.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.20.53:914][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.20.53:956][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.07.29-05.20.54:278][653]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1BF90006641ED63020F83DA9FA487815C.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.20.54:306][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.20.54:407][653]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData658731F1423E15D845D2298ECBCAFF74.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.20.55:856][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.07.29-05.21.08:239][135]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.07.29-05.21.08:264][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.21.11:144][451]Cmd: SELECT NONE
+[2019.07.29-05.21.21:390][641]Cmd: SELECT NONE
+[2019.07.29-05.21.23:414][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.23.06:554][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.23.06:595][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.29-05.23.06:970][487]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_14E7D625042980DB41FA41093E48EB715.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.23.07:031][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.23.07:190][487]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData77F1B6EC43458D23F00A35B9796D0D56.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.23.07:946][567]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.23.07:966][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.07:966][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.23.07:966][567]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:23:07 PM)
+[2019.07.29-05.23.07:966][567]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.23.07:986][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019315s)
+[2019.07.29-05.23.07:986][567]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.23.07:986][567]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2019.07.29-05.23.07:986][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.020115s)
+[2019.07.29-05.23.08:039][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.07.29-05.23.08:047][567]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.23.08:055][567]LogInit: FAudioDevice initialized.
+[2019.07.29-05.23.08:085][567]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.23.08:087][567]PIE: Warning: Invalid Simulate Options: Body (PlayerStart_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2019.07.29-05.23.08:087][567]PIE: Warning: Invalid Simulate Options: Body (PlayerStart_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2019.07.29-05.23.08:088][567]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.23.08
+[2019.07.29-05.23.08:103][567]LogWorld: Bringing up level for play took: 0.016699
+[2019.07.29-05.23.08:117][567]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 -0.137
+[2019.07.29-05.23.08:117][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.10:044][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.10:044][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.23.10:077][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.23.10:077][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.10:138][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.23.10:142][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.07.29-05.23.10:172][795]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.07.29-05.23.17:270][516]LogSlate: Window 'Message Log' being destroyed
+[2019.07.29-05.23.17:273][516]LogSlate: Window 'Message Log' being destroyed
+[2019.07.29-05.23.19:795][792]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.07.29-05.23.29:283][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.23.36:330][726]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-05.23.36:342][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.36:343][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-05.23.36:343][726]PIE: New page: PIE session: Nivel_1 (Jul 28, 2019, 11:23:36 PM)
+[2019.07.29-05.23.36:343][726]LogPlayLevel: Creating play world package: /Game/MyContent/Nivel/UEDPIE_0_Nivel_1
+[2019.07.29-05.23.36:363][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019657s)
+[2019.07.29-05.23.36:363][726]LogAIModule: Creating AISystem for world Nivel_1
+[2019.07.29-05.23.36:363][726]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2019.07.29-05.23.36:363][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Nivel/Nivel_1.Nivel_1 to /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 (0.020424s)
+[2019.07.29-05.23.36:413][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.07.29-05.23.36:422][726]LogInit: XAudio2 using 'Auriculares (2- Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.29-05.23.36:429][726]LogInit: FAudioDevice initialized.
+[2019.07.29-05.23.36:458][726]LogLoad: Game class is 'GameModeBase'
+[2019.07.29-05.23.36:461][726]PIE: Warning: Invalid Simulate Options: Body (PlayerStart_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2019.07.29-05.23.36:461][726]PIE: Warning: Invalid Simulate Options: Body (PlayerStart_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2019.07.29-05.23.36:463][726]LogWorld: Bringing World /Game/MyContent/Nivel/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 0) at 2019.07.29-02.23.36
+[2019.07.29-05.23.36:464][726]LogWorld: Bringing up level for play took: 0.005232
+[2019.07.29-05.23.36:478][726]PIE: Play in editor start time for /Game/MyContent/Nivel/UEDPIE_0_Nivel_1 0.223
+[2019.07.29-05.23.36:478][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.42:984][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.42:984][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.23.43:015][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-05.23.43:015][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1' with GeneratedClass '/Game/MyContent/Nivel/Nivel_1.Nivel_1_C' with ClassGeneratedBy '/Game/MyContent/Nivel/Nivel_1.Nivel_1:PersistentLevel.Nivel_1'
+[2019.07.29-05.23.43:078][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-05.23.43:082][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.29-05.23.43:090][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.23.43:112][505]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.07.29-05.23.46:609][896]LogSlate: Window 'Message Log' being destroyed
+[2019.07.29-05.23.46:618][896]LogSlate: Window 'Message Log' being destroyed
+[2019.07.29-05.23.51:941][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.23.52:618][550]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.07.29-05.23.54:183][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.24.05:649][963]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.29-05.24.09:771][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.24.19:487][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-05.24.44:306][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-05.26.00:785][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.26.00:825][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.07.29-05.26.01:311][773]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1A4A014344E08EC2E917EBE8A22F473F1.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.26.01:364][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.26.01:525][773]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData93FD93D14866EB90C3F2DF9CFEE91FBC.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.26.37:833][756]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.29-05.26.44:677][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.26.44:718][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.29-05.26.45:195][522]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_17F75F5954BBFBEAFA901BB9965EDE2B5.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.26.45:251][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.26.45:374][522]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData014EDBAE42BBBFB5C24784BBF7275856.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.26.45:989][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.07.29-05.26.48:119][835]BlueprintLog: New page: Compile Enemigo
+[2019.07.29-05.26.48:355][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.07.29-05.26.48:893][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Enemigo" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset" SILENT=true
+[2019.07.29-05.26.48:939][893]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/EnemigoCF16A522491B97F5D57B75AC4D06C032.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Blueprints/Enemigo.uasset'
+[2019.07.29-05.26.53:631][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.29-05.26.53:671][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.07.29-05.26.54:106][424]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1038BCD3B407B2A1BAD757DBD4FB33544.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1.umap'
+[2019.07.29-05.26.54:150][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Nivel/Nivel_1_BuiltData" FILE="C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset" SILENT=true
+[2019.07.29-05.26.54:298][424]LogSavePackage: Moving 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Saved/Nivel_1_BuiltData0B5422464A6442D44F980BB57449223C.tmp' to 'C:/Users/Galar/Desktop/Repos Git/Proyecto_1/Nivel_1/Content/MyContent/Nivel/Nivel_1_BuiltData.uasset'
+[2019.07.29-05.26.56:115][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.29-05.26.57:311][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.07.29-05.26.57:409][766]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.07.29-05.26.57:529][766]LogSlate: Window 'Nivel_1 - Unreal Editor' being destroyed
+[2019.07.29-05.26.58:219][767]Cmd: QUIT_EDITOR
+[2019.07.29-05.26.59:037][767]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.29-05.26.59:090][767]LogExit: Preparing to exit.
+[2019.07.29-05.27.00:678][767]LogExit: Editor shut down
+[2019.07.29-05.27.00:680][767]LogExit: Transaction tracking system shut down
+[2019.07.29-05.27.01:944][767]LogExit: Object subsystem successfully closed.
+[2019.07.29-05.27.02:063][767]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.29-05.27.02:085][767]LogD3D11RHI: Shutdown
+[2019.07.29-05.27.02:086][767]LogD3D11RHI: CleanupD3DDevice
+[2019.07.29-05.27.02:102][767]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.29-05.27.02:102][767]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.29-05.27.02:112][767]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.29-05.27.02:112][767]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.29-05.27.02:112][767]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.29-05.27.02:112][767]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.29-05.27.02:589][767]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.29-05.27.03:202][767]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2019.07.29-05.27.03:202][767]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2019.07.29-05.27.03:202][767]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2019.07.29-05.27.03:210][767]LogModuleManager: Shutting down and abandoning module MeshBuilder (648)
+[2019.07.29-05.27.03:210][767]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (646)
+[2019.07.29-05.27.03:210][767]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.07.29-05.27.03:210][767]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.07.29-05.27.03:210][767]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.07.29-05.27.03:216][767]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.07.29-05.27.03:216][767]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.07.29-05.27.03:216][767]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.07.29-05.27.03:226][767]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.07.29-05.27.03:228][767]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.07.29-05.27.03:247][767]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.07.29-05.27.03:254][767]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.07.29-05.27.03:276][767]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.07.29-05.27.03:285][767]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.07.29-05.27.03:291][767]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.07.29-05.27.03:299][767]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.07.29-05.27.03:303][767]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.07.29-05.27.03:303][767]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.07.29-05.27.03:313][767]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.07.29-05.27.03:324][767]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.07.29-05.27.03:340][767]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.07.29-05.27.03:341][767]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.07.29-05.27.03:360][767]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.07.29-05.27.03:366][767]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.07.29-05.27.03:367][767]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.07.29-05.27.03:367][767]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.07.29-05.27.03:367][767]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.07.29-05.27.03:367][767]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.07.29-05.27.03:370][767]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.07.29-05.27.03:377][767]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.07.29-05.27.03:387][767]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.07.29-05.27.03:391][767]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.07.29-05.27.03:391][767]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.07.29-05.27.03:391][767]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.07.29-05.27.03:402][767]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.07.29-05.27.03:412][767]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.07.29-05.27.03:425][767]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.07.29-05.27.03:431][767]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.07.29-05.27.03:441][767]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.07.29-05.27.03:441][767]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.07.29-05.27.03:441][767]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.07.29-05.27.03:442][767]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.07.29-05.27.03:442][767]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.07.29-05.27.04:143][767]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.07.29-05.27.04:154][767]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.07.29-05.27.04:169][767]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.07.29-05.27.04:171][767]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.07.29-05.27.04:171][767]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.07.29-05.27.04:176][767]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.07.29-05.27.04:182][767]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.07.29-05.27.04:186][767]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.07.29-05.27.04:186][767]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.07.29-05.27.04:186][767]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.07.29-05.27.04:187][767]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.07.29-05.27.04:187][767]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.07.29-05.27.04:190][767]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.07.29-05.27.04:197][767]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.07.29-05.27.04:200][767]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.07.29-05.27.04:208][767]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.07.29-05.27.04:220][767]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.07.29-05.27.04:263][767]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.07.29-05.27.04:272][767]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.07.29-05.27.04:282][767]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.07.29-05.27.04:288][767]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.07.29-05.27.04:288][767]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.07.29-05.27.04:295][767]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.07.29-05.27.04:296][767]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.07.29-05.27.04:307][767]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.07.29-05.27.04:332][767]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.07.29-05.27.04:332][767]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.07.29-05.27.04:332][767]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.07.29-05.27.04:353][767]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.07.29-05.27.04:354][767]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.07.29-05.27.04:357][767]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.07.29-05.27.04:357][767]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.07.29-05.27.04:366][767]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.07.29-05.27.04:373][767]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.07.29-05.27.04:373][767]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.07.29-05.27.04:376][767]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.07.29-05.27.04:377][767]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.07.29-05.27.04:390][767]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.07.29-05.27.04:390][767]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.07.29-05.27.04:390][767]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.07.29-05.27.04:396][767]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.07.29-05.27.04:402][767]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.07.29-05.27.04:403][767]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.07.29-05.27.04:408][767]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.07.29-05.27.04:408][767]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.07.29-05.27.04:408][767]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.07.29-05.27.04:414][767]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.07.29-05.27.04:559][767]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.07.29-05.27.04:578][767]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.07.29-05.27.04:578][767]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.07.29-05.27.04:586][767]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.07.29-05.27.04:592][767]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.07.29-05.27.04:603][767]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.07.29-05.27.04:603][767]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.07.29-05.27.04:603][767]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.07.29-05.27.04:606][767]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.07.29-05.27.04:606][767]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.07.29-05.27.04:609][767]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.07.29-05.27.04:609][767]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.07.29-05.27.04:609][767]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.07.29-05.27.04:609][767]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.07.29-05.27.04:614][767]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.07.29-05.27.04:617][767]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.07.29-05.27.04:617][767]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.07.29-05.27.04:617][767]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.07.29-05.27.04:617][767]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.07.29-05.27.04:617][767]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.07.29-05.27.04:619][767]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.07.29-05.27.04:621][767]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.07.29-05.27.04:621][767]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.07.29-05.27.04:621][767]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.07.29-05.27.04:621][767]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.07.29-05.27.04:626][767]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.07.29-05.27.04:631][767]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.07.29-05.27.04:631][767]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.07.29-05.27.04:636][767]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.07.29-05.27.04:641][767]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.07.29-05.27.04:648][767]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.29-05.27.04:648][767]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.29-05.27.04:648][767]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.29-05.27.04:652][767]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.29-05.27.04:652][767]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.29-05.27.04:652][767]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.29-05.27.04:658][767]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.29-05.27.04:668][767]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.29-05.27.04:673][767]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.29-05.27.04:683][767]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.29-05.27.04:705][767]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.29-05.27.04:806][767]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.29-05.27.04:913][767]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.29-05.27.04:913][767]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.29-05.27.04:913][767]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.29-05.27.04:917][767]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.29-05.27.04:917][767]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.29-05.27.04:927][767]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.29-05.27.04:927][767]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.29-05.27.04:927][767]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.29-05.27.04:927][767]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.29-05.27.04:928][767]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.29-05.27.04:928][767]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.29-05.27.04:928][767]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.29-05.27.04:928][767]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.29-05.27.04:943][767]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.29-05.27.04:946][767]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.29-05.27.04:955][767]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.29-05.27.04:956][767]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.29-05.27.04:956][767]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.29-05.27.04:979][767]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.29-05.27.04:984][767]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.29-05.27.04:992][767]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.29-05.27.04:992][767]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.29-05.27.04:992][767]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.29-05.27.04:992][767]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.29-05.27.05:000][767]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.29-05.27.05:010][767]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.29-05.27.05:018][767]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.29-05.27.05:019][767]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.29-05.27.05:019][767]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.29-05.27.05:024][767]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.29-05.27.05:025][767]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.29-05.27.05:025][767]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.29-05.27.05:025][767]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.29-05.27.05:030][767]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.29-05.27.05:030][767]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.29-05.27.05:030][767]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.29-05.27.05:049][767]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.29-05.27.05:055][767]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.29-05.27.05:061][767]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.29-05.27.05:061][767]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.29-05.27.05:066][767]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.29-05.27.05:088][767]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.29-05.27.05:119][767]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.29-05.27.05:119][767]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.29-05.27.05:129][767]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.29-05.27.05:129][767]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.29-05.27.05:135][767]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.29-05.27.05:141][767]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.29-05.27.05:145][767]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.29-05.27.05:145][767]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.29-05.27.05:153][767]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.29-05.27.05:169][767]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.29-05.27.05:178][767]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.29-05.27.05:182][767]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.29-05.27.05:201][767]LogDerivedDataCache: Shutdown
+[2019.07.29-05.27.05:201][767]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.29-05.27.05:210][767]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.29-05.27.05:217][767]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.29-05.27.05:227][767]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.29-05.27.05:234][767]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.29-05.27.05:243][767]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.29-05.27.05:243][767]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.29-05.27.05:246][767]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.29-05.27.05:246][767]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.29-05.27.05:246][767]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.29-05.27.05:246][767]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.29-05.27.05:255][767]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.29-05.27.05:255][767]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.29-05.27.05:255][767]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.29-05.27.05:255][767]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.29-05.27.05:259][767]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.29-05.27.05:259][767]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.29-05.27.05:266][767]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.29-05.27.05:293][767]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.29-05.27.05:293][767]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.29-05.27.05:303][767]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.29-05.27.05:304][767]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.29-05.27.05:304][767]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.29-05.27.05:312][767]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.29-05.27.05:312][767]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.29-05.27.05:319][767]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.29-05.27.05:319][767]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.29-05.27.05:368][767]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.29-05.27.05:369][767]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.29-05.27.05:370][767]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.29-05.27.05:370][767]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.29-05.27.05:376][767]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.29-05.27.05:376][767]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.29-05.27.05:392][767]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.29-05.27.05:392][767]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.29-05.27.05:392][767]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.29-05.27.05:392][767]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.29-05.27.05:394][767]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.29-05.27.05:395][767]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.29-05.27.05:443][767]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.29-05.27.05:443][767]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.29-05.27.05:443][767]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61E11C5A-4F08-05FB-543A-D4A11A33C697%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=406998c6424dabcfe0acc995c6423edf%7Ca87311e40b3541c7b4c06534a3f792f4%7C49c9cb72-37b9-41ac-adb0-cfe823779432&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.29-05.27.05:463][767]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.29-05.27.05:467][767]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.29-05.27.05:481][767]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.29-05.27.05:487][767]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.29-05.27.05:492][767]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.29-05.27.05:493][767]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.29-05.27.05:499][767]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.29-05.27.05:504][767]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.29-05.27.05:525][767]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.29-05.27.05:525][767]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.29-05.27.05:525][767]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.29-05.27.05:525][767]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.29-05.27.05:532][767]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.29-05.27.05:537][767]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.29-05.27.05:537][767]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.29-05.27.05:544][767]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.29-05.27.05:544][767]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.29-05.27.05:544][767]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.29-05.27.05:544][767]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.29-05.27.05:551][767]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.29-05.27.05:551][767]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.29-05.27.05:559][767]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.29-05.27.05:559][767]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.29-05.27.05:568][767]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.29-05.27.05:589][767]LogExit: Exiting.
+[2019.07.29-05.27.05:628][767]Log file closed, 07/29/19 02:27:05
